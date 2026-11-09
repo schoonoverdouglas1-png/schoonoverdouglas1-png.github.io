@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://schoonoverdouglas1-png.github.io/sitemap.xml
